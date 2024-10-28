@@ -1,4 +1,4 @@
-<h1> Hello 🤙!! soy Juan Cruz , bienvenido a mi perfil de github ❄️ </h1>
+<h1> Hellooo !! soy Juan Cruz , bienvenido a mi perfil de github ❄️ </h1>
  <br>
 <img align="right" height="550px" alt="guy" width="450" src="https://i.pinimg.com/736x/7e/e3/f2/7ee3f2e76001a8a6f625dc0f10a40ee8.jpg" />
  
