@@ -1,6 +1,6 @@
 <h1> Hello 🤙!! soy Juan Cruz , bienvenido a mi perfil de github ❄️ </h1>
  <br>
-<img align="right" height="600px" alt="guy" width="500" src="https://i.pinimg.com/736x/7e/e3/f2/7ee3f2e76001a8a6f625dc0f10a40ee8.jpg" />
+<img align="right" height="590px" alt="guy" width="500" src="https://i.pinimg.com/736x/7e/e3/f2/7ee3f2e76001a8a6f625dc0f10a40ee8.jpg" />
  
 <h2> ♋ About me ♋ </h2> 
  <br>
